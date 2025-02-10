@@ -4,7 +4,7 @@
 
 ## 설치
 ```bash
-pip install aicastle
+pip install aicastle[deepracer-vehicle]
 ```
 
 ## 사용법

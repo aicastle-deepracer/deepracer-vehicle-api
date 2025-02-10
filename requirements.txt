@@ -1,1 +1,4 @@
-aicastle
+aicastle[deepracer-vehicle]
+ipykernel
+openai
+ollama
