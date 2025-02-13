@@ -3,9 +3,14 @@
 - 본 저장소는 DeepRacer 차량의 API를 [(주)에이아이캐슬](https://aicastle.io) 에서 재구성 한 것입니다.
 
 ## 설치
-```bash
-pip install aicastle[deepracer-vehicle]
-```
+- 필수
+    ```bash
+    pip install aicastle[deepracer-vehicle] ipykernel
+    ```
+
+- 선택
+    - `pip install openai`
+    - `pip install ollama`
 
 ## 사용법
 

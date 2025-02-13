@@ -1,4 +1,4 @@
 aicastle[deepracer-vehicle]
 ipykernel
-openai
-ollama
+# openai
+# ollama
