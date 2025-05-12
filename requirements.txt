@@ -1,4 +1,5 @@
 aicastle[deepracer-vehicle]
+tensorflow
 ipykernel
 # matplotlib
 

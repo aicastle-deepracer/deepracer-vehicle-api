@@ -5,7 +5,7 @@
 ## 설치
 - 필수
     ```bash
-    pip install aicastle[deepracer-vehicle] ipykernel
+    pip install aicastle[deepracer-vehicle] ipykernel tensorflow
     ```
 
 - 선택
